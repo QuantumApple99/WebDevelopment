@@ -1,0 +1,139 @@
+a {
+  color: #11999E;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40541E;
+}
+
+.bottom-container {
+  margin-top: 100px;
+  padding: 35px;
+  padding-bottom: 25px;
+  background-color: #66BFBF;
+}
+
+.btn {
+  background: #11999e;
+  background-image: -webkit-linear-gradient(top, #11999e, #66bfbf);
+  background-image: -moz-linear-gradient(top, #11999e, #66bfbf);
+  background-image: -ms-linear-gradient(top, #11999e, #66bfbf);
+  background-image: -o-linear-gradient(top, #11999e, #66bfbf);
+  background-image: linear-gradient(to bottom, #11999e, #66bfbf);
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+
+.cloud-top {
+  position: absolute;
+  top: 70px;
+  right: 350px;
+}
+
+.cloud-bottom {
+  position: absolute;
+  left: 300px;
+}
+
+.copyright {
+  margin-top: 50px;
+  color: #EAF6F6;
+}
+
+.contact {
+  margin: 50px auto 75px;
+}
+
+.first-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 125px;
+}
+
+.footer-link {
+  text-decoration: none;
+  display: inline-block;
+  width: 200px;
+  font-family: 'Merriweather', serif;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+h1 {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border-style: dotted none none none;
+  width: 5%;
+  border-width: 5px;
+  color: #EAF6F6;
+  margin: 100px auto 100px;
+}
+
+.intro {
+  width: 35%;
+  margin: 50px auto 50px;
+  line-height: 2;
+  color: #40514E;
+}
+
+.middle-container {
+  padding-top: 75px;
+}
+
+.p1 {
+  line-height: 2;
+}
+
+.p2 {
+  line-height: 2;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill1 {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill2 {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
